@@ -1,1 +1,1 @@
-# javascript-pratter
+# javascript-pattern
